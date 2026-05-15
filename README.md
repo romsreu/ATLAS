@@ -1,1 +1,2 @@
-<img width="1280" height="350" alt="ATLAS_BANNER (1)" src="https://github.com/user-attachments/assets/73f3ffe3-d36a-45a1-9ae2-69177fe571ec" />
+<img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/345cc685-eb0a-4b99-a2fb-1c0a6826fd03" />
+
